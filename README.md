@@ -2,11 +2,11 @@ LegendaryShoresProject
 ======================
 
 <!DOCTYPE html>
-<html lan=”en>
+<html lang=”en">
 <head>
 	<!--created November 2, 2013 by Carly Lynn, tenbuscc@lcc.edu -->
 	<meta charset=”utf-8” />
-	<title>Legendary Shores Project </title>
+	<title>Legendary Shores</title>
 
 	<style>
 		body
@@ -16,7 +16,7 @@ LegendaryShoresProject
 		font-family; san-serif;
 		}
 
-		Title
+		title
 		{
 		text-align: center;
 		font-family: serif;
@@ -37,7 +37,7 @@ LegendaryShoresProject
 
 <body>
 
-<h1> img src=”https://www.facebook.com/photo.php?fbid=1410714095821611&l=e0ae6fe300</h1>
+<h1>img src=”https://www.facebook.com/photo.php?fbid=1410714095821611&l=e0ae6fe300"</h1>
 
 <p> This page is dedicated to regional and international <strong>Michigan’s Eastern Upper Penninsula</strong> and our Canadien neighbor events.  It is a project I began when I realized a few minutes of air time every Sunday morning on the iconic Bill Thorne’s “Hymn Time” could not possibly cover everything that is going on throughout the upcoming week.  I also have the intentions of utilizing and strengthening my creative skill (i.e. Photoshop) by requesting readers to submit details of upcoming events. </p>
 
